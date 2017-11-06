@@ -1,1 +1,0 @@
-ifconfig | grep ether | cut -d ' ' -f 2,3 | sed "s/ //g"
