@@ -1,0 +1,5 @@
+Credentials cache: API:4614C6EF-6CD8-4270-B7E6-3EAB6F5D41E4
+        Principal: stoure@42.FR
+
+  Issued                Expires               Principal
+Jul  3 21:54:04 2017  Jul 10 21:54:04 2017  krbtgt/42.FR@42.FR
